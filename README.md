@@ -1,4 +1,9 @@
-﻿# Login SignUp UI-React-Native
+﻿# Use this command to link with images:
+react-native link react-native-vector-icons 
+react-native run-android 
+
+# Login-Signup-Using-Firebase-Authentication--ReactNative
+
 Here i have create an onboarding screen in a react native app. Also, I have shown how to detect the first launch in react native to display the onboarding screen once. Here i have used react native swiper library.
 
 Documentations:
@@ -12,5 +17,5 @@ npm install react-native-reanimated react-native-gesture-handler react-native-sc
 
 React-Native-Swiper:
 npm i react-native-swiper --save
-# Login-Signup-Using-Firebase-Authentication--ReactNative
+
 
