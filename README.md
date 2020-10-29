@@ -1,6 +1,6 @@
 ﻿# Use this command to link with images:
 react-native link react-native-vector-icons 
-react-native run-android 
+
 
 # Login-Signup-Using-Firebase-Authentication--ReactNative
 
